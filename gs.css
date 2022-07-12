@@ -683,7 +683,7 @@ footer button:hover{
     }
     .header-text {
         margin-left: 15px;
-        font-size: 16px;
+        font-size: 13px;
         margin-top: -14px;
     }
     .tcart{
@@ -717,7 +717,7 @@ footer button:hover{
    width: 350px;
     position: absolute;
     left: calc(7%);
-    top:75px;
+    top:70px;
 }
     .stores h1{
         font-size:20px;
@@ -827,7 +827,7 @@ footer button:hover{
     }
     .menu-wrap {
   position: fixed;
-  top: 17px;
+  top: 11px;
   left: 0;
   z-index: 1;
         display: block;

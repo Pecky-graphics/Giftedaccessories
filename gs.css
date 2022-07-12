@@ -674,6 +674,7 @@ footer button:hover{
 }
 
 @media (max-width:550px){
+
     .usercart{
         display:none;
     }
@@ -682,7 +683,7 @@ footer button:hover{
     }
     .header-text {
         margin-left: 0px;
-        font-size: 10px;
+        font-size: 13px;
     }
     .tcart{
         display: flex;
@@ -704,7 +705,7 @@ footer button:hover{
         display: none;
     }
     .top-img img{
-        width:300px;
+        width:385px;
         height:40vh;
         margin-left:5px;
         margin-bottom: 5px;
@@ -714,7 +715,7 @@ footer button:hover{
     .gslogo img{
    width: 350px;
     position: absolute;
-    left: calc(-9%);
+    left: calc(5%);
     top:75px;
 }
     .stores h1{
@@ -724,7 +725,7 @@ footer button:hover{
     .stores h1:before{
     background-color: #d9ddde;
     display: block;
-    width:80px;
+    width:125px;
     height:1px;
     content:"";
     position: absolute;
@@ -735,7 +736,7 @@ footer button:hover{
 .stores h1:after{
     background-color:#d9ddde;
     display: block;
-    width:80px;
+    width:125px;
     height:1px;
     content:"";
     position: absolute;
@@ -749,7 +750,7 @@ footer button:hover{
     .stores2 h1:before{
     background-color: #d9ddde;
     display: block;
-    width:50px;
+    width:95px;
     height:1px;
     content:"";
     position: absolute;
@@ -760,7 +761,7 @@ footer button:hover{
 .stores2 h1:after{
     background-color:#d9ddde;
     display: block;
-    width:50px;
+    width:95px;
     height:1px;
     content:"";
     position: absolute;
@@ -769,14 +770,14 @@ footer button:hover{
     z-index:-1;
 }
     .blog-box{
-    width: 150px;
+    width: 190px;
     background-color: #ffffff;
     border: 1px solid #ececec;
     margin:5px;
 }
 
 .blog-img img{
-    width:150px;
+    width:190px;
     height: 30vh;
     object-fit:cover;
     object-position: center;
@@ -785,10 +786,10 @@ footer button:hover{
 
 .blog-text button{
      background:#d4af37;
-    width:140px;
+    width:170px;
     height:6vh;
     margin: 5px;
-    margin-left: 5px;
+    margin-left: 9px;
     border: none;
     border-radius:5px;
 }

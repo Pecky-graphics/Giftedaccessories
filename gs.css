@@ -685,7 +685,6 @@ footer button:hover{
         margin-left: 15px;
         font-size: 13px;
         margin-top: -14px;
-Font-weight:600;
     }
     .tcart{
         display: flex;
@@ -828,7 +827,7 @@ Font-weight:600;
     }
     .menu-wrap {
   position: fixed;
-  top:20px;
+  top:25px;
   left: 0;
   z-index: 1;
         display: block;

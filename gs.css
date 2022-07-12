@@ -673,7 +673,7 @@ footer button:hover{
     
 }
 
-@media(max-width:326px){
+@media(max-width:327px){
     .usercart{
         display:none;
     }

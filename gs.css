@@ -682,7 +682,7 @@ footer button:hover{
         display: none;
     }
     .header-text {
-        margin-left: 25px;
+        margin-left:28px;
         font-size: 13px;
         margin-top: -14px;
     }
@@ -717,7 +717,7 @@ footer button:hover{
    width: 350px;
     position: absolute;
     left: calc(7%);
-    top:82px;
+    top:85px;
 }
     .stores h1{
         font-size:20px;
@@ -827,7 +827,7 @@ footer button:hover{
     }
     .menu-wrap {
   position: fixed;
-  top:28px;
+  top:32px;
   left: 0;
   z-index: 1;
         display: block;

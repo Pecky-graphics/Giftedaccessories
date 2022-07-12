@@ -704,16 +704,102 @@ footer button:hover{
         display: none;
     }
     .top-img img{
-        width:672px;
-        height:55vh;
-        margin-top:10px;
+        width:300px;
+        height:40vh;
+        margin-left:5px;
+        margin-bottom: 5px;
+        margin-right: 5px;
+        margin-top: 0px;
     }
     .gslogo img{
-   width: 400px;
+   width: 350px;
     position: absolute;
-    left: calc(20%);
-    top:49px;
+    left: calc(-9%);
+    top:75px;
 }
+    .stores h1{
+        font-size:20px;
+    }
+    
+    .stores h1:before{
+    background-color: #d9ddde;
+    display: block;
+    width:80px;
+    height:1px;
+    content:"";
+    position: absolute;
+    top:40%;
+    left: 2%;
+    z-index:-1;
+}
+.stores h1:after{
+    background-color:#d9ddde;
+    display: block;
+    width:80px;
+    height:1px;
+    content:"";
+    position: absolute;
+    bottom: 40%;
+    right: 2%;
+    z-index:-1;
+}
+    .stores2 h1{
+        font-size:20px;
+    }
+    .stores2 h1:before{
+    background-color: #d9ddde;
+    display: block;
+    width:50px;
+    height:1px;
+    content:"";
+    position: absolute;
+    top:40%;
+    left: 2%;;
+    z-index:-1;
+}
+.stores2 h1:after{
+    background-color:#d9ddde;
+    display: block;
+    width:50px;
+    height:1px;
+    content:"";
+    position: absolute;
+    bottom: 40%;
+    right: 2%;
+    z-index:-1;
+}
+    .blog-box{
+    width: 150px;
+    background-color: #ffffff;
+    border: 1px solid #ececec;
+    margin:5px;
+}
+
+.blog-img img{
+    width:150px;
+    height: 30vh;
+    object-fit:cover;
+    object-position: center;
+}
+
+
+.blog-text button{
+     background:#d4af37;
+    width:140px;
+    height:6vh;
+    margin: 5px;
+    margin-left: 5px;
+    border: none;
+    border-radius:5px;
+}
+    .blog-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px -50px;
+    flex-wrap:wrap;
+}
+    
     footer{
         display: block;
         margin-left: 20px;

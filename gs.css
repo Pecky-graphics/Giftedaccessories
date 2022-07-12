@@ -705,8 +705,8 @@ footer button:hover{
         display: none;
     }
     .top-img img{
-        width:385px;
-        height:40vh;
+        width:395px;
+        height:45vh;
         margin-left:5px;
         margin-bottom: 5px;
         margin-right: 5px;
@@ -787,7 +787,7 @@ footer button:hover{
 .blog-text button{
      background:#d4af37;
     width:170px;
-    height:6vh;
+    height:5vh;
     margin: 5px;
     margin-left: 9px;
     border: none;
